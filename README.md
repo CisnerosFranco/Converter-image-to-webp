@@ -1,1 +1,0 @@
-# Converter-image-to-webp
